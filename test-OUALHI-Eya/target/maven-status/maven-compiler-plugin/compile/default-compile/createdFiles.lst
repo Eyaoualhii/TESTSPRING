@@ -1,0 +1,8 @@
+tn\esprit\testoualhieya\DAO\Repository\ClientRepository.class
+tn\esprit\testoualhieya\Config\SpringDocConfig.class
+tn\esprit\testoualhieya\Services\Client\ClientService.class
+tn\esprit\testoualhieya\Services\Client\IClientService.class
+tn\esprit\testoualhieya\Controller\ClientController.class
+tn\esprit\testoualhieya\DAO\Entities\Client.class
+tn\esprit\testoualhieya\TestOualhiEyaApplication.class
+tn\esprit\testoualhieya\DAO\Entities\Client$ClientBuilder.class
