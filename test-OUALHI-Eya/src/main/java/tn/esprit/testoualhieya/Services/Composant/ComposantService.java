@@ -1,11 +1,14 @@
 package tn.esprit.testoualhieya.Services.Composant;
 
+import lombok.AllArgsConstructor;
+import org.springframework.stereotype.Service;
 import tn.esprit.testoualhieya.DAO.Entities.Composant;
 import tn.esprit.testoualhieya.DAO.Entities.Menu;
 import tn.esprit.testoualhieya.DAO.Repository.ComposantRepository;
 
 import java.util.Set;
-
+@Service
+@AllArgsConstructor
 public class ComposantService implements IComposantService {
     ComposantRepository composantRepository;
     @Override

@@ -8,4 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 @AllArgsConstructor
 @RequestMapping("/menus")
 public class MenuController {
+
+
 }
